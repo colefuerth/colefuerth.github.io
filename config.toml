@@ -8,7 +8,7 @@ enableEmoji = true
 [params]
   # dir name of your main content (default is `content/posts`).
   # the list of set content will show up on your index page (baseurl).
-  contentTypeName = "posts"
+  contentTypeName = "showcase"
 
   # ["orange", "blue", "red", "green", "pink"]
   themeColor = "blue"
@@ -73,7 +73,7 @@ enableEmoji = true
     owner = ""
     keywords = ""
     copyright = ""
-    menuMore = "CAS"
+    # menuMore = "CAS"
     readMore = "Read more"
     readOtherPosts = "Read other posts"
     newerPosts = "Newer posts"
@@ -83,49 +83,24 @@ enableEmoji = true
 
     [languages.en.params.logo]
       logoText = "Home"
-      logoHomeLink = "https://undemalum.github.io/portfolio/"
+      logoHomeLink = "/showcase"
 
     [languages.en.menu]
+      # [[languages.en.menu.main]]
+      #   identifier = "showcase"
+      #   name = "Showcase"
+      #   url = "/"
+      #   weight = 1
       [[languages.en.menu.main]]
         identifier = "about"
         name = "About me"
-        url = "/about"
-        weight = 1
-      [[languages.en.menu.main]]
-        identifier = "posts"
-        name = "Posts"
-        url = "/"
+        url = "/showcase/about"
         weight = 2
       [[languages.en.menu.main]]
         identifier = "projects"
         name = "My projects"
-        url = "/projects"
+        url = "/showcase/projects"
         weight = 3
-      [[languages.en.menu.main]]
-        identifier = "ib-resources"
-        name = "IB resorces"
-        url = "/ib-resources"
-        weight = 4
-      [[languages.en.menu.main]]
-        identifier = "creativity"
-        name = "Creativity"
-        url = "/creativity"
-        weight = 5
-      [[languages.en.menu.main]]
-        identifier = "activity"
-        name = "Activity"
-        url = "/activity"
-        weight = 6
-      [[languages.en.menu.main]]
-        identifier = "service"
-        name = "Service"
-        url = "/service"
-        weight = 7
-      [[languages.en.menu.main]]
-        identifier = "cas-project"
-        name = "Cas project"
-        url = "/cas-project"
-        weight = 8
 
 # # Allow rendering of custom html
 # [markup]
