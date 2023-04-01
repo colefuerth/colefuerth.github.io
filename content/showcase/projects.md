@@ -1,6 +1,7 @@
 ---
-title: "projects"
+title: "Projects"
 draft: false
+cover: "img/cover.jpg"
 --- 
 
 projects overview
