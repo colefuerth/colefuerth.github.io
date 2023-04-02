@@ -1,117 +1,52 @@
-baseurl = "https://colefuerth.github.io/"
+title = "Cole Fuerth"
+baseURL = "https://colefuerth.github.io/"
+theme = "resume"
 languageCode = "en-us"
-theme = "terminal"
-paginate = 5
+PygmentsCodeFences = true
+PygmentsCodeFencesGuessSyntax = true
+PygmentsStyle = "monokai"
 enableGitInfo = true
-enableEmoji = true
-title = "Cole Portfolio"
-copyright = "Cole Fuerth"
 
 [params]
-  # dir name of your main content (default is `content/posts`).
-  # the list of set content will show up on your index page (baseurl).
-  contentTypeName = "home"
+address = "Woodslee, Ontario"
+email = "colefuerth@gmail.com"
+favicon = "/favicon.ico"
+firstName = "Cole"
+lastName = "Fuerth"
+phone = "1-519-300-2877"
+profileImage = "img/cole.jpg"
+showEducation = true
+showExperience = true
+showOpenSource = false
+showProjects = true
+showPublications = true
+showQr = false
+showSkills = true
+showCertifications = false
 
-  # ["orange", "blue", "red", "green", "pink"]
-  themeColor = "blue"
+# [params.google]
 
-  # if you set this to 0, only submenu trigger will be visible
-  showMenuItems = 4
+# [params.google.analytics]
+# trackerID = "4809327005"
 
-  # show selector to switch language
-  showLanguageSelector = false
+[[params.handles]]
+link = "https://github.com/colefuerth/"
+name = "GitHub"
 
-  # set theme to full screen width
-  fullWidthTheme = false
+[[params.handles]]
+link = "https://www.linkedin.com/in/cole-fuerth-48344520a/"
+name = "LinkedIn"
 
-  # center theme with default width
-  centerTheme = false
+[[params.handles]]
+link = "https://www.instagram.com/cole_on_a_cob/"
+name = "Instagram"
 
-  # if your resource directory contains an image called `cover.(jpg|png|webp)`,
-  # then the file will be used as a cover automatically.
-  # With this option you don't have to put the `cover` param in a front-matter.
-  autoCover = true
+# [[params.handles]]
+# link = "https://keybase.io/edwardawebb"
+# name = "Keybase"
 
-  # set post to show the last updated
-  # If you use git, you can set `enableGitInfo` to `true` and then post will automatically get the last updated
-  showLastUpdated = false
+[outputs]
+home = ["HTML", "JSON"]
 
-  # set a custom favicon (default is a `themeColor` square)
-  # favicon = "favicon.ico"
-
-  # Provide a string as a prefix for the last update date. By default, it looks like this: 2020-xx-xx [Updated: 2020-xx-xx] :: Author
-  # updatedDatePrefix = "Updated"
-
-  # set all headings to their default size (depending on browser settings)
-  oneHeadingSize = false # non-default
-
-  # whether to show a page's estimated reading time
-  # readingTime = false # default
-
-  # whether to show a table of contents
-  # can be overridden in a page's front-matter
-  Toc = false # non-default
-
-  # set title for the table of contents
-  # can be overridden in a page's front-matter
-  # TocTitle = "Table of Contents" # default
-
-  # Add custom css 
-  custom_css = ["css/image.css"]
-
-
-# [params.twitter]
-#   # set Twitter handles for Twitter cards
-#   # see https://developer.twitter.com/en/docs/tweets/optimize-with-cards/guides/getting-started#card-and-content-attribution
-#   # do not include @
-#   creator = ""
-#   site = ""
-
-[languages]
-  [languages.en]
-    languageName = "English"
-    title = "Cole Fuerth"
-    subtitle = "This serves as my portfolio for my projects and other things I have done."
-    owner = "Cole Fuerth"
-    keywords = ""
-    copyright = "Cole Fuerth"
-    menuMore = "CAS"
-    readMore = "Read more"
-    readOtherPosts = "Read other posts"
-    newerPosts = "Newer posts"
-    olderPosts = "Older posts"
-    missingContentMessage = "Page not found..."
-    missingBackButtonLabel = "Back to home page"
-
-    [languages.en.params.logo]
-      logoText = "Cole Fuerth"
-      logoHomeLink = "/home"
-
-    [languages.en.menu]
-      # [[languages.en.menu.main]]
-      #   identifier = "showcase"
-      #   name = "Showcase"
-      #   url = "/"
-      #   weight = 1
-      [[languages.en.menu.main]]
-        identifier = "about"
-        name = "About me"
-        url = "/home/about"
-        weight = 20
-        # add custom css claass
-        # cssClass = "custom-class"
-      [[languages.en.menu.main]]
-        identifier = "projects"
-        name = "My projects"
-        url = "/home/projects"
-        weight = 30
-
-# # Allow rendering of custom html
-# [markup]
-#   [markup.goldmark]
-#     [markup.goldmark.renderer]
-#       unsafe = true
-#   [markup.tableOfContents]
-#     endLevel = 2
-#     ordered = false
-#     startLevel = 1
+[taxonomies]
+tag = "tags"
