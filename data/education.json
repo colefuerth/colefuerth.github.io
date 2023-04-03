@@ -1,15 +1,16 @@
 [
     {
-        "school":"[Rochester Institute of Technology](https://rit.edu)",
+        "school":"University of Windsor",
         "degree":"Bachelor of Science",
-        "major":"Management Information Systems",
-        "notes":"Beta Gamma Signma, High Honors",
-        "range":"2006 - 2008"
+        "major":"Computer Science (Honors) - Artificial Intelligence Specialization",
+        "notes":"- AI Specialization\n- Math Minor\n- First place in Emulators at CSGames 2023\n- Graduated with Distinction\n- Dean's Honour Roll for 2 years\n- 89% Major Average",
+        "range":"September 2020 - April 2023"
     },
     {
-        "school":"Clinton Community College",
-        "degree":"Associate of Applied Science",
-        "major":"Computer Information Systems",
-        "range":"2004 - 2006"
+        "school":"St. Clair College",
+        "degree":"Associate Degree",
+        "major":"Electronics Engineering Technology",
+        "notes":"- Automotive Electronics Specialization\n- Leadership Award\n- 3.9 GPA",
+        "range":"September 2017 - April 2020"
     }
 ]
