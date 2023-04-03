@@ -1,20 +1,43 @@
 [
     {
-        "role":"Boss man",
-        "company":"Current Company LTD",
-        "summary":"Led in development of fast paced software teams.\n- list\n- of\n- things",
-        "range":"February 2016 - Present"
+        "role": "Research Assistant",
+        "company": "University of Windsor",
+        "summary": "- Developed an **AI Battery Characterization** tool for processing otherwise unusable field data\n- Developed a cloud-based data collection and SOC-estimation tool for Battery Management Systems using **TensorFlow**, **AWS**, **RabbitMQ**  and **MongoDB**. Programmed in **C++** and **Python**\n- Assisted MASc students in developing data collection tools for the study of Battery Management System (BMS) performance and Batter Thermal Management Systems (BTMS) prediction.\n- Made a dynamic interface between **I2C/UART** on **Arduino** and **Python** over USB using JSON packets, allowing for real-time data collection and analysis.",
+        "range": "February 2016 - Present"
     },
     {
-        "role":"Developer",
-        "company":"Current Company LTD",
-        "summary":"Expedited the synergies of collaborative agile tooling.",
-        "range":"March 2014 - February 2016"
+        "role": "Teaching Assistant",
+        "company": "University of Windsor",
+        "summary": "I was a TA for a series of classes:\n1. 2057 Intro to the Internet (97%)\n2. 2560 System Programming (99%)\n3. 1410 Intro to Algorithms II (94%)\n4. 3400 Advanced Object Oriented System Design using C++ (93%)",
+        "range": "January 2022 - April 2023"
     },
     {
-        "role":"Developer",
-        "company":"Previous Company Inc.",
-        "summary":"Implemented continuous devops pipelines automationing",
-        "range":"February 2013 - March 2014"
+        "role": "General Tutor",
+        "company": "University of Windsor, St. Clair College, Essex High School",
+        "summary": "For clarity this is *three places* because I did a year at each facility near the end of their respective degree/diploma, but all were titled \"General Tutoring\". Bracketed items mark subjects only covered at one of the facilities.\n\nSubjects included:\n\n- Programming in C, C++, C# (SCC), Java, Python, SQL (UW), PLC/Ladder (SCC)\n- Mathematics (Lin Alg, Derivatives/Integrals, Functions, etc)\n- Physics & Chemistry (SCC/EDHS)\n- English (SCC/EDHS)\n- AC/DC Circuit Analysis (SCC)",
+        "range": "September 2016 - March 2020"
+    },
+    {
+        "role": "Audiovisual/IT Support",
+        "company": "St. Clair College",
+        "summary": "Provided AV support for St. Clair College\n- Debugged classroom projectors and audio systems\n- Repaired and assembled old or new audio devices\n- Supported any internal or external events",
+        "range": "May 2018 - April 2020"
+    },
+    {
+        "role": "Controls Engineering Technician",
+        "company": "Centerline Ltd. Windsor",
+        "summary": "- Set-up and debugged industry-standard production machines.\n- Programmed Rockwell PLCs, FANUC robots, and various other misc. industry devices.\n- Integrated new industry devices with PLCs, such as date scribes, torque units, and cameras.",
+        "range": "May 2019 - September 2020"
+    },
+    {
+        "role": "Electrical/Embedded Systems Engineer",
+        "company": "Misc Contract Work",
+        "summary": "#### Smyth Innovations\n\n- Developed a custom ECU for an [RD400](https://github.com/SquareWheelBike/RD400) motorcycle using **EasyEDA** for board design, and **C++** for software development.\n- Custom wiring and PCB assembly done by hand.\n\n#### Private Contract\n\n- Designed and implemented an Air Suspension control system for a 1970s Corvette.\n- Manual engine and control arm sensors were replaced with a custom **Arduino**-based system.\n- **C++** was used for software development, and **EasyEDA** was used for board design.\n- Custom wiring and PCB assembly done by hand.\n\n#### Motorcycle Wiring\n- Did a series of custom wiring jobs for various clients and motorcycles, including a 1980s Honda CB650, a 1990s Virago, and a 1979 Honda CM400T."
+    },
+    {
+        "role": "Lifeguard",
+        "company": "Town of Leamington",
+        "summary": "I was a lifeguard for the Town of Leamington for 3 years, and was responsible for:\n- Maintaining a safe environment for patrons\n- Performing rescues\n- Maintaining a clean and safe pool environment\n- Maintaining a safe and clean pool deck",
+        "range": "September 2015 - August 2018"
     }
 ]
