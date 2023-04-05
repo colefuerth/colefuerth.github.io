@@ -1,32 +1,132 @@
 [
   {
-      "grouping":"Architecture",
-      "skills":[ "IP Networking","DNS","Firewalls","Load Balancing","Microservices","RESTful APIs","SaaS/PaaS/IaaS"]
-  },{
-      "grouping":"Languages, Operating Systems & Tools",
-      "skills":[ "Java","Python","git","subversion","linux","bash","php","jquery","javascript"]
+    "grouping": "Languages",
+    "skills": [
+      {
+        "name": "Python",
+        "icon": "devicon-python-plain"
+      },
+      {
+        "name": "NumPy",
+        "icon": "devicon-numpy-plain"
+      },
+      {
+        "name": "Pandas",
+        "icon": "devicon-pandas-plain"
+      },
+      {
+        "name": "Jupyter",
+        "icon": "devicon-jupyter-plain"
+      },
+      {
+        "name": "TensorFlow",
+        "icon": "devicon-tensorflow-original"
+      },
+      {
+        "name": "C",
+        "icon": "devicon-c-plain"
+      },
+      {
+        "name": "C++",
+        "icon": "devicon-cplusplus-plain"
+      },
+      {
+        "name": "Rust",
+        "icon": "devicon-rust-plain"
+      },
+      {
+        "name": "Java",
+        "icon": "devicon-java-plain"
+      },
+      {
+        "name": "git",
+        "icon": "devicon-git-plain"
+      },
+      {
+        "name": "bash",
+        "icon": "devicons devicons-terminal"
+      },
+      {
+        "name": "LaTeX",
+        "icon": "devicon-latex-plain"
+      },
+      {
+        "name": "Markdown",
+        "icon": "devicons devicons-markdown"
+      },
+      {
+        "name": "MatLab",
+        "icon": "devicon-matlab-plain"
+      }
+    ]
   },
   {
-      "grouping":"Platform Development & Administration",
-      "skills":[ "Atlassian","Bamboo","Bitbucket","NGINX","MySQL","Wordpress"]
-  },
-  {
-      "grouping":"Data Management",
-      "skills":[
-        {"name":"Microsoft SQL Server","icon":"msql_server"},
-        {"name":"Oracle","icon":"database"},
-        "MongoDB",
-        {"name":"Apache Spark"}
-      ]
-  },
-  {
-    "grouping":"Containers & Cloud",
-      "skills":[
-          {"name":"BOSH","link":"https://bosh.io"},
-          {"name":"Docker","link":"https://docker.com"},
-          {"name":"AWS","link":"https://aws.amazon.com"},
-          {"name":"Google Cloud","link":"https://cloud.google.com"},
-          {"name":"Linux","link":"https://bosh.io"}
-      ]
+    "grouping": "Technologies",
+    "skills": [
+      {
+        "name": "Docker",
+        "icon": "devicons devicons-docker"
+      },
+      {
+        "name": "PCB Fabrication",
+        "svg": "svg/pcb.svg"
+      },
+      {
+        "name": "Battery Management Systems",
+        "icon": "fa-solid fa-car-battery"
+      },
+      {
+        "name": "Electronic Speed Controllers",
+        "icon": "fa-solid fa-plug-circle-bolt"
+      },
+      {
+        "name": "3D Printing",
+        "icon": "fa-solid fa-print"
+      },
+      {
+        "name": "Regex",
+        "svg": "svg/regex.svg"
+      },
+      {
+        "name": "Linux",
+        "icon": "devicons devicons-linux"
+      },
+      {
+        "name": "systemd",
+        "icon": "devicon-debian-plain"
+      },
+      {
+        "name": "Embedded",
+        "icon": "devicon-embeddedc-plain"
+      },
+      {
+        "name": "I2C/UART/CAN/Serial",
+        "svg": "svg/serial.svg"
+      },
+      {
+        "name": "Arduino",
+        "icon": "devicon-arduino-plain"
+      },
+      {
+        "name": "PLC/Robotics",
+        "icon": "fa fa-microchip"
+      },
+      {
+        "name": "LabView",
+        "icon": "devicon-labview-plain"
+      },
+      {
+        "name": "NGINX",
+        "icon": "devicon-nginx-plain"
+      },
+      {
+        "name": "Raspberry Pi",
+        "icon": "devicon-raspberrypi-line"
+      },
+      {
+        "name": "ROS",
+        "icon": "fa-solid fa-robot"
+      }
+    ]
   }
 ]

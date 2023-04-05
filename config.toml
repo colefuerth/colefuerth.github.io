@@ -8,7 +8,7 @@ PygmentsStyle = "monokai"
 enableGitInfo = true
 
 [params]
-address = "Woodslee, Ontario"
+# address = ""
 email = "colefuerth@gmail.com"
 favicon = "/favicon.ico"
 firstName = "Cole"
