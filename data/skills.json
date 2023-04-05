@@ -39,10 +39,6 @@
         "icon": "devicon-java-plain"
       },
       {
-        "name": "git",
-        "icon": "devicon-git-plain"
-      },
-      {
         "name": "bash",
         "icon": "devicons devicons-terminal"
       },
@@ -88,14 +84,6 @@
         "svg": "svg/regex.svg"
       },
       {
-        "name": "Linux",
-        "icon": "devicons devicons-linux"
-      },
-      {
-        "name": "systemd",
-        "icon": "devicon-debian-plain"
-      },
-      {
         "name": "Embedded",
         "icon": "devicon-embeddedc-plain"
       },
@@ -106,6 +94,18 @@
       {
         "name": "Arduino",
         "icon": "devicon-arduino-plain"
+      },
+      {
+        "name": "Linux",
+        "icon": "devicons devicons-linux"
+      },
+      {
+        "name": "systemd",
+        "icon": "devicon-debian-plain"
+      },
+      {
+        "name": "git",
+        "icon": "devicon-git-plain"
       },
       {
         "name": "PLC/Robotics",
@@ -122,10 +122,6 @@
       {
         "name": "Raspberry Pi",
         "icon": "devicon-raspberrypi-line"
-      },
-      {
-        "name": "ROS",
-        "icon": "fa-solid fa-robot"
       }
     ]
   }
