@@ -15,4 +15,9 @@ This page represents the landing page for "publications" section. It is also sho
 
 \-->
 
-A collection of articles, presentations or talks, most likely on Culture and DevOps, because let's admit it, they are one in the same
+This section is still under construction, but there are two publications I have contributed to:
+
+1. HIL Temperature Control
+2. BFGEval Battery Fuel Gauge Evaluation
+
+*Note*: both of these are through Research at the University of Windsor; I implemented test platforms for the masters' students, and if needed (on the above cases), I write a section in their thesis about the implementation.
