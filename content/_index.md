@@ -18,5 +18,4 @@ I am an Embedded Engineer that dabbles in (almost) every field I can! I would *a
 - I have built an EV platform from scratch using custom PCBs as my Electronics Engineering Capstone
 - I graduated from Honours Computer Science (AI Specialization) with distinction and a math minor from the University of Windsor
 - I have a lot of experience doing contracts on small to medium projects for both the University and a string of private contracts
-- I am currently learning high performance concurrency in Rust.
-  - Want to know how fast you can ping ever IP in the world using a distributed Kubernetes network, each running a [concurrent ping engine](https://github.com/colefuerth/wasping)? Because I do! The goal is to make a giant poster of a pixel map of which IPs respond and which ones don't
+- I am currently learning high performance concurrency in Rust by building a [concurrent ping engine](https://github.com/colefuerth/wasping). The goal is to make a giant poster of a pixel map of which IPs respond and which ones don't
