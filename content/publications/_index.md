@@ -17,7 +17,7 @@ This page represents the landing page for "publications" section. It is also sho
 
 This section is still under construction, but there are two publications I have contributed to:
 
-1. HIL Temperature Control
-2. BFGEval Battery Fuel Gauge Evaluation
+1. HIL (Hardware In the Loop) Temperature Prediction
+2. BFGEval (Battery Fuel Gauge Evaluation)
 
-*Note*: both of these are through Research at the University of Windsor; I implemented test platforms for the masters' students, and if needed (on the above cases), I write a section in their thesis about the implementation.
+*Note*: both of these are through a Research position with the Electrical Engineering department at the University of Windsor; I implemented test platforms for the masters' students, and if needed (on the above cases), I write a section in their thesis about the implementation. The entire team specializes in research on Batteries.
