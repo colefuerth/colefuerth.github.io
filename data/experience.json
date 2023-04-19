@@ -3,7 +3,7 @@
         "role": "Research Assistant",
         "company": "University of Windsor",
         "summary": "- Developed an **AI Battery Characterization** tool for processing otherwise unusable field data\n- Developed a cloud-based data collection and SOC-estimation tool for Battery Management Systems using **TensorFlow**, **AWS**, **RabbitMQ**  and **MongoDB**. Programmed in **C++** and **Python**\n- Assisted MASc students in developing data collection tools for the study of Battery Management System (BMS) performance and Batter Thermal Management Systems (BTMS) prediction.\n- Made a dynamic interface between **I2C/UART** on **Arduino** and **Python** over USB using JSON packets, allowing for real-time data collection and analysis.",
-        "range": "February 2016 - Present"
+        "range": "November 2021 - Present"
     },
     {
         "role": "Teaching Assistant",
