@@ -41,9 +41,9 @@ A (relatively) short list of the most notable projects is:
    - Lots of PC builds
    - Custom motorcycles (wiring, fabrication, etc)
    - Farming (family farm)
-   - FPV RC car
+   - FPV RC car/planes/drones
    - I do all my own maintenance on motorcycles, cars, diesel tractors, etc
    - A series of concurrency projects and other small programming ventures
    - C and Python are the preferred languages, I am very proficient in C specifically, for low level embedded applications
    - A *lot* of small Arduino projects to automate silly tasks, for one-off uses for parties, etc
-   - And more, but I will make this section nice another day. Toodaloo!
+   - And more, but I will finish this section another day. Toodaloo!
