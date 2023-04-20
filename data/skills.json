@@ -122,6 +122,10 @@
       {
         "name": "Raspberry Pi",
         "icon": "devicon-raspberrypi-line"
+      },
+      {
+        "name":"RF (433, 2.4, BT)",
+        "icon":"fa-solid fa-wifi"
       }
     ]
   }
