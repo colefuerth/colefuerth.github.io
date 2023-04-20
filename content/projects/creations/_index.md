@@ -36,7 +36,8 @@ A (relatively) short list of the most notable projects is:
    - Daily backup scripts for anything remotely important
    - Mostly this is so I can host my own services and hold all my own data, rather than using *large companies*
 4. A lot more projects done from (mostly) scratch, because programming and EE is cool
-   - 3D Printing
+   - A hard-coded Convolutional Neural Network in NumPy
+   - 3D Printing (custom firmware, wiring, print head, motherboard, etc)
    - Racing drones
    - Lots of PC builds
    - Custom motorcycles (wiring, fabrication, etc)
