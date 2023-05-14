@@ -10,6 +10,7 @@ outputs:
 - json
 ---
 
+The most recent iteration of my Resume can be found [here](https://raw.githubusercontent.com/colefuerth/Resumes/main/resume.pdf)!
 
 I am an Embedded Engineer that dabbles in (almost) every field I can! I would *always* prefer working on a project using a cool new concept I learned over video games any day. My native languages are C and Python for Embedded and Machine Learning respectively, but I pick up most concepts very quickly, and start integrating every skill I can into my projects. Some more details about me:
 
@@ -22,5 +23,3 @@ I am an Embedded Engineer that dabbles in (almost) every field I can! I would *a
 - I like motorcycling, electric boarding, rock climbing, coffee, and video games! Most of my hobbies have a DIY component to them, and I love to learn new skills.
 - I grew up on a small family farm, where I learned to work with my hands and gained a lot of technical skills. I can (competently) operate all of the heavy equipment, fix the machines in the field, and I am responsible for most of the electrical diagnostics and repairs for everything here. I paired this experience with my Electronics Engineering and Computer Science degrees to make a lot of cool projects. Engines are cool, too!
 - I have a lot of experience completing contracts on small to medium projects for both the University and a string of private contracts.
-
-The most recent iteration of my Resume can be found [here](https://raw.githubusercontent.com/colefuerth/Resumes/main/resume.pdf)!
