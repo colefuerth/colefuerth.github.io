@@ -10,7 +10,7 @@ outputs:
 - json
 ---
 
-The most recent iteration of my Resume can be found [here](https://raw.githubusercontent.com/colefuerth/Resumes/main/resume.pdf)!
+The most recent iteration of my Resume can be found [here](https://raw.githubusercontent.com/colefuerth/Resumes/main/Cole_Fuerth_resume.pdf)!
 
 I am an Embedded Engineer that dabbles in (almost) every field I can! I would *always* prefer working on a project using a cool new concept I learned over video games any day. My native languages are C and Python for Embedded and Machine Learning respectively, but I pick up most concepts very quickly, and start integrating every skill I can into my projects. Some more details about me:
 
