@@ -44,3 +44,4 @@ A (relatively) short list of the most notable projects is:
    - C and Python are the preferred languages, I am very proficient in C specifically, for low level embedded applications
    - A *lot* of small Arduino projects to automate silly tasks, for one-off uses for parties, etc
    - And more, but I will finish this section another day. Toodaloo!
+   - batteries from high school (charger, reconstructing cells, studying how they work, building things with them, etc)
