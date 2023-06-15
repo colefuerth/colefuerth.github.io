@@ -19,32 +19,32 @@ On my spare time, I always choose working on a personal project over playing vid
 
 A (relatively) short list of the most notable projects is:
 
-1. Electric Motorcycle
-   - Ground-up, from scratch, design and assembly of an electric motorcycle.
-   - Done on a YZ125 Dirtbike frame
-   - "Ground Up" meaning everything, right down to the charging circuit, was hand-assembled on custom PCBs, using individual parts from DigiKey.
-2. Electric Longboards
+<!-- 1. Electric Longboards
    - After COVID hit, my motor supplier for the Electric Motorcycle flaked out, and since that was the last component I was waiting on, I gutted the bike to make three Electric Boards on the cheap.
    - Since then, the boards have completely transformed into offroad performance vehicles, also with a custom design.
    - Open-source ESC, dual drive, custom longboard deck, and *hand-assembled batteries* are the notable features. Assembling batteries by hand is very time-consuming, but is a third the cost of pre-assembled cells.
    - ~30km range (in summertime)
-   - Telemetry and logging, speed limiting, current control, range estimation, total draw, and more are tracked by the controller and displayed on an LCD screen on the hand-held remote.
-3. Home Server
+   - Telemetry and logging, speed limiting, current control, range estimation, total draw, and more are tracked by the controller and displayed on an LCD screen on the hand-held remote. -->
+<!-- 2. Home Server
    - This one is a little less impressive, but I host a home server with containerized services.
    - Running Ubuntu Server 22.04
    - Plex, OpenVPN, Nextcloud, Minecraft, qBitTorrent, HandBrake/FileBot, a code server, and more are hosted for both friends and I.
    - Daily backup scripts for anything remotely important
-   - Mostly this is so I can host my own services and hold all my own data, rather than using *large companies*
-4. A lot more projects done from (mostly) scratch, because programming and EE is cool
-   - A hard-coded Convolutional Neural Network in NumPy
-   - 3D Printing (custom firmware, wiring, print head, motherboard, etc)
-   - Racing drones
-   - Lots of PC builds
-   - Custom motorcycles (wiring, fabrication, etc)
-   - Farming (family farm)
-   - FPV RC car/planes/drones
-   - I do all my own maintenance on motorcycles, cars, diesel tractors, etc
-   - A series of concurrency projects and other small programming ventures
-   - C and Python are the preferred languages, I am very proficient in C specifically, for low level embedded applications
-   - A *lot* of small Arduino projects to automate silly tasks, for one-off uses for parties, etc
-   - And more, but I will finish this section another day. Toodaloo!
+   - Mostly this is so I can host my own services and hold all my own data, rather than using *large companies* -->
+<!-- 3. A lot more projects done from (mostly) scratch, because programming and EE is cool -->
+ - [Electric Motorcycle](/projects/creations/electric-motorcycle/)
+ - [Electric Longboards](/projects/creations/electric-longboards/)
+ - A home server
+ - A hard-coded Convolutional Neural Network in NumPy
+ - 3D Printing (custom firmware, wiring, print head, motherboard, etc)
+ - Racing drones
+ - Lots of PC builds
+ - Custom motorcycles (wiring, fabrication, etc)
+ - Farming (family farm)
+ - FPV RC car/planes/drones
+ - I do all my own maintenance on motorcycles, cars, diesel tractors, etc
+ - A series of concurrency projects and other small programming ventures
+ - C and Python are the preferred languages, I am very proficient in C specifically, for low level embedded applications
+ - A *lot* of small Arduino projects to automate silly tasks, for one-off uses for parties, etc
+ - I experimented with batteres through high school (charger, reconstructing cells, studying how they work, building things with them, etc)
+ - And more, but I will finish this section another day. Toodaloo!
