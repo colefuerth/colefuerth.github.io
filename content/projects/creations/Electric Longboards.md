@@ -1,5 +1,5 @@
 ---
-title: "Electric Longboards"
+title: "Electric Longboard"
 # link: "https://github.com/colefuerth/ElectricMotorcycle"
 image: "/img/electric_boards/IMG_20210617_211804.jpg"
 description: "Custom electric longboards with telemetry, logging, and more. Open-source ESC, dual drive, custom longboard deck, and hand-assembled batteries are the notable features. Assembling batteries by hand is very time-consuming, but is a third the cost of pre-assembled cells. ~30km range (in summertime). Telemetry and logging, speed limiting, current control, range estimation, total draw, and more are tracked by the controller and displayed on an LCD screen on the hand-held remote."
@@ -10,6 +10,10 @@ weight: 50
 sitemap: 
     priority : 0.8
 ---
+
+![electric board](/img/electric_boards/IMG_20210702_203611.jpg)
+
+### Summary
 
 Custom electric longboards with telemetry, logging, and more. Open-source ESC, dual drive, custom longboard deck, and hand-assembled batteries are the notable features. Assembling batteries by hand is very time-consuming, but is a third the cost of pre-assembled cells. ~30km range (in summertime). Telemetry and logging, speed limiting, current control, range estimation, total draw, and more are tracked by the controller and displayed on an LCD screen on the hand-held remote.
 
